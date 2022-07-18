@@ -26,8 +26,6 @@ $(document).ready(function(){
          $('.menu-btn i').toggleClass("active");
      });
  
-     //typing animation script
- 
       var typed = new Typed(".typing",{
          strings:["Full stack Web developer","Coder"],
          typeSpeed: 100,
