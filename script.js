@@ -28,14 +28,15 @@ $(document).ready(function(){
  
      //typing animation script
  
-     var typed = new Typed(".typing",{
-         strings:["Full stack Web developer","Coder"],
+      var typed = new Typed(".typing",{
+         strings:["Full stack Web developer","Coder","Blogger"],
          typeSpeed: 100,
          backSpeed: 60,
          loop:true
      })
+ 
      var typed = new Typed(".typing-2",{
-         strings:["Full stack Web developer","Coder"],
+         strings:["Full stack Web developer","Coder","Blogger"],
          typeSpeed: 100,
          backSpeed: 60,
          loop:true
